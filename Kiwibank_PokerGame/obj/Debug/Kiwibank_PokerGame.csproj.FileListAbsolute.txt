@@ -1,0 +1,7 @@
+C:\Users\larry\Documents\Visual Studio 2017\Projects\Kiwibank_PokerGame\Kiwibank_PokerGame\bin\Debug\Kiwibank_PokerGame.exe.config
+C:\Users\larry\Documents\Visual Studio 2017\Projects\Kiwibank_PokerGame\Kiwibank_PokerGame\bin\Debug\Kiwibank_PokerGame.exe
+C:\Users\larry\Documents\Visual Studio 2017\Projects\Kiwibank_PokerGame\Kiwibank_PokerGame\bin\Debug\Kiwibank_PokerGame.pdb
+C:\Users\larry\Documents\Visual Studio 2017\Projects\Kiwibank_PokerGame\Kiwibank_PokerGame\obj\Debug\Kiwibank_PokerGame.csprojResolveAssemblyReference.cache
+C:\Users\larry\Documents\Visual Studio 2017\Projects\Kiwibank_PokerGame\Kiwibank_PokerGame\obj\Debug\Kiwibank_PokerGame.csproj.CoreCompileInputs.cache
+C:\Users\larry\Documents\Visual Studio 2017\Projects\Kiwibank_PokerGame\Kiwibank_PokerGame\obj\Debug\Kiwibank_PokerGame.exe
+C:\Users\larry\Documents\Visual Studio 2017\Projects\Kiwibank_PokerGame\Kiwibank_PokerGame\obj\Debug\Kiwibank_PokerGame.pdb
